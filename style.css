@@ -1,0 +1,174 @@
+.title {
+    background-color: #ce0d1d;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    font-size: 1rem;
+    padding: 0.5rem;
+    height: 5vh;
+    color: #fff;
+}
+body{
+    overflow: hidden;
+    background: rgb(226, 226, 152);
+}
+.first{
+    display: flex;
+    flex-direction: row;
+}
+i{
+    position: absolute;
+}
+.input-icons {
+    width: 50%;
+    margin-bottom: 10px;
+    margin-left: 400px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+  
+.input-field {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+.credentials{
+    width: 15%;
+    height: 800px;
+    background-color: black;
+}
+.text10{
+    display: flex;
+    flex-direction: row;
+}
+.text11{
+    display: flex;
+    flex-direction: row;
+}
+.text12{
+    display: flex;
+    flex-direction: row;
+}
+.one{
+    color: orangered;
+    padding: 15px;
+}
+.text1{
+    color: white;
+    padding: 15px;
+}
+.material-icons:hover{
+    cursor: pointer;
+}
+.text1:hover{
+    cursor: pointer;
+    color: orangered;
+}
+.myclass{
+    display: flex;
+    flex-direction: column;
+}
+table{
+    padding-top:20px;
+    margin-left: 300px;
+    text-align: center;
+}
+th{
+    padding: 20px;
+    width: 10px;
+    font-size: x-large;
+    background-color: rgb(165, 157, 157);
+}
+td{
+    padding: 20px;
+    width: 10px;
+    font-size: large;
+}
+th, td {
+    border-bottom: 1px solid rgb(27, 26, 26);
+}
+.oman{
+    padding-right: 200px;
+}
+.oman1{
+    padding-left: 200px;
+}
+th:hover{
+    cursor: pointer;
+    opacity: 0.7;
+    font-size: x-large;
+}
+td:hover{
+    opacity: 0.7;
+    cursor: pointer;
+    font-size: x-large;
+}
+.five{
+    display: flex;
+    flex-direction: row;
+    margin-left: 258px;
+    margin-top:15px;
+    background-color: rgb(177, 165, 165);
+}
+.buttons{
+    display:flex;
+    flex-direction:row;
+}
+.two{
+    height: 20px;
+    width: 20px;
+    padding: 20px;
+    color: rgb(44, 1, 1);
+    opacity: 0.9;
+}
+.two:hover {
+    cursor: pointer;
+    opacity: 2.5;
+    background-color: rgb(209, 144, 60);
+}
+.slider_container1{
+    padding-left: 40px;
+    display:flex;
+    flex-direction:row;
+}
+.slider_container2{
+    padding-left: 100px;
+    padding-right: 20px;
+    display:flex;
+    flex-direction:row;
+}
+.current-time{
+    margin-top: 17px;
+    padding-right: 20px;
+}
+.sliderclass1{
+    padding-left: 40px;
+}
+.total-duration{
+    margin-top: 17px;
+    padding-left: 20px;
+}
+.three{
+    margin-top: 17px;
+    padding-right: 20px;
+}
+.sliderclass2{
+    padding-left: 40px;
+}
+.four{
+    margin-top: 17px;
+    padding-left: 20px;
+}
+.sliderclass1:hover{
+    cursor: pointer;
+}
+.sliderclass2:hover{
+    cursor: pointer;
+}
